@@ -18,3 +18,6 @@ drawTri = (v1, v2) -> (arrTri = new Array(); (arrTri.push(drawOneTri(v2)) while 
 
 #output
 alert(output.join("\n\n"))
+
+#End Message
+alert("End Up!")
