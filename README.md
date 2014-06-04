@@ -1,3 +1,5 @@
 ACM_Q488_Triangle-Wave.coffee
 =============================
-ACM Question 488 solution by CoffeeScript.
+The ACM Q.488 solution by CoffeeScript.
+
+And for practice github
